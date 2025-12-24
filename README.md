@@ -1,2 +1,1 @@
-<p>This is a new LocalRepo.</p>
-<p> This is new feature.</p>
+<p>This is a LocalRepo.</p>
