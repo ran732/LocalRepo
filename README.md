@@ -1,1 +1,1 @@
-This is a LocalRepo.
+<p>This is a LocalRepo.</p>
